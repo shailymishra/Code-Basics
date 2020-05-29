@@ -1,0 +1,26 @@
+\documentclass{article}
+
+
+\usepackage[inline]{enumitem}   %% 1, 
+\usepackage{enumitem}  %% 2,
+
+\begin{document}
+
+https://tex.stackexchange.com/questions/146306/how-to-make-horizontal-lists
+\section{1. Enumerate inline and with brackets }
+Text before list.
+\begin{enumerate*}
+  \item My first in list.
+  \item My second in list.
+\end{enumerate*}
+Text after list.
+
+https://tex.stackexchange.com/questions/42905/enumerated-list-with-square-brackets
+\begin{enumerate}[label={(\arabic*)}]
+    \item First item
+    \item Second item
+    \item \ldots
+    \item Last item
+  \end{enumerate}
+
+\end{document}
