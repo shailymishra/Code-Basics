@@ -1,0 +1,22 @@
+PWD c:\Users\Shaily Mishra\Desktop\Summer Research\Templates\Latex\FAQ
+INPUT C:\Users\Shaily Mishra\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Shaily Mishra\Desktop\Summer Research\Templates\Latex\FAQ\faq.tex
+OUTPUT c:\Users\Shaily Mishra\Desktop\Summer Research\Templates\Latex\FAQ\faq.log
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT c:\Users\Shaily Mishra\Desktop\Summer Research\Templates\Latex\FAQ\faq.aux
+INPUT c:\Users\Shaily Mishra\Desktop\Summer Research\Templates\Latex\FAQ\faq.aux
+OUTPUT c:\Users\Shaily Mishra\Desktop\Summer Research\Templates\Latex\FAQ\faq.aux
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT c:\Users\Shaily Mishra\Desktop\Summer Research\Templates\Latex\FAQ\faq.pdf
+INPUT C:\Users\Shaily Mishra\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\Shaily Mishra\Desktop\Summer Research\Templates\Latex\FAQ\faq.aux
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb

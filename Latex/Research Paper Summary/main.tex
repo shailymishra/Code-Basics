@@ -1,0 +1,50 @@
+\providecommand{\rootDir}{.}
+\documentclass{R19}
+\usepackage{subfiles}
+\usepackage[resetlabels,labeled]{multibib}
+\newcites{Read}{List of Papers Summarized}
+\date{}
+
+\begin{document}
+
+\title{Title\\\small{Subtitle}}
+\author{Author name 1 \and Author name 2}
+\maketitle
+
+\tableofcontents
+
+\section{Abstract}
+Write Abstract here
+
+%% Adding the section to table of contents
+\addcontentsline{toc}{section}{Section without Numbering}
+\section*{Section without Numbering}
+\subfile{sections/summary_of_paper.tex}
+
+you can refer  the suummary of paper using 
+\ref{give_a_label_here}
+
+\onecolumn
+\section{Brief Overview}
+\begin{table*}[h]
+    \centerfloat
+    \begin{tabular}{|m{10em}|m{7em}|m{14em}|m{17em}|  }
+         \hline
+         \textbf {Paper}& \textbf {Appeared in}& \textbf{Problem Statement} & \textbf{Solution Proposed}
+         \\
+         \hline
+         Paper Name &
+         Appeared &
+         Problem Statement &
+         Solution proposed\\
+         \hline
+    \end{tabular}
+    \caption{\textbf{List of papers Papers}}
+    \label{tab:index}
+\end{table*}
+
+\bibliographystyleRead{plain}
+\bibliographyRead{papers}
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}
